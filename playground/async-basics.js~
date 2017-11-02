@@ -1,0 +1,7 @@
+console.log("Starting");
+setTimeout(()=>{
+    console.log("in the middle");
+    
+},2000);
+console.log("Finished");
+
